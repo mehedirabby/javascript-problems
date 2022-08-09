@@ -15,7 +15,7 @@ for(let i = 1; i<=50;i++){
         console.log('bar');
     }
     else if(i%3===0){
-        console.log('foo')
+        console.log('foo');
     }
     else{
         console.log(i)
